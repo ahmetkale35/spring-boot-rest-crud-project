@@ -56,11 +56,17 @@ This project is a **RESTful CRUD application** developed using **Spring Boot**. 
 
 ## API Endpoints
 
-- **POST /api/items** - Create a new item.
-- **GET /api/items** - Get a list of all items.
-- **GET /api/items/{id}** - Get an item by ID.
-- **PUT /api/items/{id}** - Update an existing item.
-- **DELETE /api/items/{id}** - Delete an item by ID.
+| HTTP Method | Endpoint            | Description               |
+|-------------|---------------------|---------------------------|
+| **POST**    | `/api/items`         | Create a new item.        |
+| **GET**     | `/api/items`         | Get a list of all items.  |
+| **GET**     | `/api/items/{id}`    | Get an item by ID.        |
+| **PUT**     | `/api/items/{id}`    | Update an existing item.  |
+| **DELETE**  | `/api/items/{id}`    | Delete an item by ID.     |
+
+## Contribution
+
+Feel free to fork this repository, submit issues, or create pull requests to contribute to this project.
 
 ## License
 
