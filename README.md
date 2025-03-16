@@ -67,3 +67,18 @@ This project is a **RESTful CRUD application** developed using **Spring Boot**. 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## ScreenShots
+
+![update2](https://github.com/user-attachments/assets/64abc686-1733-47aa-9e1c-94fceaf8d4ee)
+
+
+![list3](https://github.com/user-attachments/assets/f779a242-f512-4402-a28a-b3b81b4b9de6)
+
+
+![Ekran görüntüsü 2025-03-16 233119](https://github.com/user-attachments/assets/cdf7477e-1c65-4d37-a4f5-cf2465d2d599)
+
+
+
+
+
