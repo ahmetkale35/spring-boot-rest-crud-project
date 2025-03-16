@@ -64,10 +64,6 @@ This project is a **RESTful CRUD application** developed using **Spring Boot**. 
 | **PUT**     | `/api/items/{id}`    | Update an existing item.  |
 | **DELETE**  | `/api/items/{id}`    | Delete an item by ID.     |
 
-## Contribution
-
-Feel free to fork this repository, submit issues, or create pull requests to contribute to this project.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
